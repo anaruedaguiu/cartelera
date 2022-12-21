@@ -1,0 +1,126 @@
+body {
+/*     background-image: url("../img/fc7c130922b1f0f1142941cb6a0176bc.jpg");
+    background-repeat: repeat;
+    background-size: contain;
+    background-size: 100%;
+    background-size: 100vw 100vh; */
+    /* background-color: rgb(51, 51, 248); */
+}
+
+.cardsMovies{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: stretch;
+    /* background: linear-gradient(rgb(1, 1, 32), rgb(3, 45, 73));} */
+    background-image: url(/img/stars-galaxy-blue-milky-way-wallpaper-preview.jpg);
+}
+
+.card{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.card-img-top{
+    width: 18rem;
+    height: 25rem;
+    border: 1px solid white;
+}
+
+.card-title{
+    color: rgb(0, 0, 0);
+}
+
+.card-body{
+    /* background: linear-gradient(rgb(1, 1, 32), rgb(3, 45, 73)); */
+    /* margin: 3px; */
+    background-image: url(/img/8837a69bcf30bd8a428f9b6bb9d22e48.jpg);
+    opacity: 0.9;
+    border: 1px solid white;
+}
+
+.card-title-title{
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+
+.iconPotion{
+    width: 20px;
+    font-weight: bold;
+}
+
+.card-title-director{
+    color: black;
+    font-size: 18px;
+}
+
+.card-title-genre{
+    color: black;
+    font-size: 18px;
+}
+
+.card-title-description{
+    color: black;
+    font-size: 18px;
+}
+
+/* .title{
+    color: black;
+    font-size: 40px;
+    font-weight: bold; */
+    /* flex-direction: row; */
+    /* display: flex;
+    justify-content: center; */
+    /* margin: 5px; */
+    /* background-image: url("/img/fc7c130922b1f0f1142941cb6a0176bc.jpg"); */
+    /* padding: 5px;
+    align-items: baseline;
+} */
+
+.titleComplete {
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+}
+
+.backgroundTitle {
+    background-image: url(/img/fc7c130922b1f0f1142941cb6a0176bc.jpg);
+
+}
+
+.textTitle {
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.2em;
+    /* -webkit-text-stroke: 0.5px white; */
+    font-size: 40px;
+    /* font-weight: bold; */
+    width: 500px;
+    height: 80px;
+    background: linear-gradient(rgba(1, 1, 32, 0.849), rgba(3, 45, 73, 0.747));
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    align-items: baseline;
+    /* border: 2px solid red; */
+}
+
+/* .movieSagaTitle{
+    font-family: 'Playfair Display', serif; */
+    /* font-family: 'Libre Baskerville', serif; */
+    /* font-size: 40px;
+    padding: 15px;
+    color: black;
+    font-weight: bold;
+} */
+
+/* .harryPotterTitle{
+    font-family: 'Italianno', cursive;
+    font-size: 55px;
+    padding: 15px;
+    color: black;
+    font-weight: bold;
+} */
