@@ -21,6 +21,7 @@ In this case, the project is about the Harry Potter Movie Saga 🪄.
 ## To install project 💻
 
 ## Methodology 📚
+* Solo programming
 
 ## Core skills:
 * Git version control system.
