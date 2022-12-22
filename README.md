@@ -11,8 +11,10 @@ In this case, the project is about the Harry Potter Movie Saga 🪄.
 ## Screenshots 📸
 
 ## Stacks 🔧
-* Frontend: HTML5, CSS3, JavaScript.
-* Backend: JSON.
+* HTML5 
+* CSS3 
+* JavaScript
+* JSON
 
 ## Required 🔎
 
