@@ -24,13 +24,12 @@ fetchMoviesJson().then(movies => {
 
         moviesSection.innerHTML += `
             <div class="card" style="width: 18rem;">
-                <img src="${img}" class="card-img-top" alt="...">
+                <img src="${img}" class="card-img-top" alt="image for the movie card">
                 <div class="card-body">
                     <h3 class="card-title-title">${id}. ${title}</h3>
                     <h5 class="card-title-director"><img class= "iconPotion"src="/icons/icons8-maná-502.png"> Director : ${director}</h5>
                     <h5 class="card-title-genre"><img class= "iconPotion"src="/icons/icons8-maná-502.png"> Género : ${genre}</h5>
                     <h5 class="card-title-description"><img class= "iconPotion"src="/icons/icons8-maná-502.png"> Sinopsis : ${description}</h5>
-
                 </div>
             </div>
         `
