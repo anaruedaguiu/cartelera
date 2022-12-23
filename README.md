@@ -1,19 +1,23 @@
 ## Project name
 
-<h1>🎬 My Favorite Movie Saga 🎬</h1>
+<p>
+    <h1 align="center">🎬 My Favorite Movie Saga 🎬</h1>
+</p>
 
 ## Description 
 
 Design and develop a CRUD of my favorite movies using Ajax in Javascript and a "Fake" API REST.
 
-In this case, the project is about the *Harry Potter Movie Saga* 🪄.
+In this case, the project is about the ***Harry Potter Movie Saga*** 🪄.
 
 ## Full stack developer
 - [Ana Rueda Guiu](https://github.com/anaruedaguiu)
 
-## Screenshots 
+## Screenshot 
 
-![Screenshot 2022-12-23 at 11-51-18 My Favorite Movie Saga](https://user-images.githubusercontent.com/117440372/209323961-ccadd8aa-dfd3-4e37-b49a-2a3106950550.png)
+<p align="center">
+    <img src="/img/screenshotMovieSaga.png" width="35%">
+</p>
 
 ## Stacks 
 * HTML5 
@@ -27,15 +31,18 @@ In this case, the project is about the *Harry Potter Movie Saga* 🪄.
 * Composer installed
 * Package.json
 
-## To install project: 
+## How to install the project: 
 * Install node.js (https://nodejs.org/es/download/ LTS version)
-* Run *node -v* command in a Visual Studio Code new terminal to find out the version of node.js installed. Version used in this project: v18.12.1  
+* Run ***node -v*** command in a Visual Studio Code new terminal to find out the version of node.js installed. Version used in this project: v18.12.1  
 * Clone git https://github.com/anaruedaguiu/cartelera.git
 * Install dependencies in a Visual Studio Code new terminal: 
-    Run *npm install* command 
+    
+    - Run ***npm install*** command 
 * Run the server from the *json* folder of the *carteleraHarryPotter* using the following commands:
-        *cd json/*
-        *json-server --watch peliculas.json*
+
+    - **_cd json/_** command
+    
+    - **_json-server --watch peliculas.json_** command
 
 ## Methodology 
 * Solo programming
